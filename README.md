@@ -2,9 +2,8 @@
 
 # Generation and Evaluation of Different Prompt Patterns Using AI Tools
 
-AI PROMPT ENGINEERING LAB Experiment No. 04
-NAME: INFANCIA FELCY P
-REGISTER NUMBER:212223040067
+## NAME: INFANCIA FELCY P
+## REGISTER NUMBER:212223040067
 
 🎯 Aim
 
